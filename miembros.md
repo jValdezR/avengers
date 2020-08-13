@@ -4,6 +4,7 @@
 * Black Widow
 * Capitán Marvel
 * Capitan America
+* Nick Fury
 * Falcon
 * Hank Pym
 * Hawkeye
