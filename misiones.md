@@ -1,2 +1,4 @@
-# Investigar al Dr. Doom.
-# Capturar a RedSkull
+# Misiones
+
+* Investigar al Dr. Doom.
+* Capturar a RedSkull
